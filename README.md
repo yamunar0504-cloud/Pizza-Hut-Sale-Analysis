@@ -104,8 +104,3 @@ The project is structured into **three levels of SQL analysis**:
 2.By transforming raw transactional data into meaningful insights, the analysis supports *better business decisions, improved operational efficiency, and enhanced customer satisfaction*.
 
 
-  
-
----
-
-## 📁 Project Structure
